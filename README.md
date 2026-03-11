@@ -3,7 +3,7 @@
 Self-Hosted yt-dlp Backend with No Rate Limits
 
 <p align="center">
-  <img src="https://iili.io/q5iESa9.jpg" alt="yt-dlp API Logo" width="400"/>
+  <img src="https://iili.io/q5iESa9.jpg" alt="yt-dlp API Logo" width="900"/>
 </p>
 
 <p align="center">
